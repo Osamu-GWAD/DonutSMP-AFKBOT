@@ -1,5 +1,7 @@
-# Mineflayer AFK Bot
- 
+🛑 This bot has been personally tested and, to date, has not been flagged for botting. However, there is always a risk when using automation tools. Use this software at your own discretion and risk.# Mineflayer AFK Bot
+
+# Mineflayer AFK BOT
+
 A powerful, automated Minecraft AFK bot built with [Mineflayer](https://github.com/PrismarineJS/mineflayer). Designed to keep multiple Microsoft accounts connected to a server while acting as a vanilla client. The bot automatically manages playtime via APIs, executes anti-idle mechanisms, and includes Discord integration for remote control and logging.
 
 ## Features
