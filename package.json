@@ -1,0 +1,13 @@
+{
+    "name": "mineflayer-afk-bot",
+    "version": "1.0.0",
+    "description": "A Mineflayer bot that behaves like a vanilla client and stays AFK.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.26.4",
+        "mineflayer": "^4.20.1"
+    }
+}
