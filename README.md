@@ -1,4 +1,4 @@
-🛑 This bot has been personally tested and, to date, has not been flagged for botting. However, there is always a risk when using automation tools. Use this software at your own discretion and risk.# Mineflayer AFK Bot
+🛑 This bot has been personally tested and, to date, has not been flagged for botting. However, there is always a risk when using automation tools. Use this software at your own discretion and risk.
 
 # Mineflayer AFK Bot
 
