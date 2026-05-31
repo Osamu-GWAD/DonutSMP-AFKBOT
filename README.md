@@ -25,7 +25,7 @@ A powerful, automated Minecraft AFK bot built with [Mineflayer](https://github.c
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone https://github.com/your-username/mineflayer-afk-bot.git
+   git clone https://github.com/Osamu-GWAD/DonutSMP-AFKBOT.git
    cd mineflayer-afk-bot
    ```
 
